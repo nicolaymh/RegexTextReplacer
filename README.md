@@ -9,6 +9,15 @@
 - **Robust Exception Handling:** Captures and handles common errors to ensure operation stability.
 - **Portable Code:** Written in C# with compatibility in mind, making it easy to run on various systems where .NET is available.
 
+## Usage Example 🛠️
+Suppose you want to replace all instances of "C#" with "CSharp" in a file named `C#.md`:
+
+- **Input File:** `C#.md`
+- **Output File:** `CSharp.md`
+- **Execution Command:**
+  ```bash
+  dotnet run
+
 ## Getting Started 🚀
 To start using **RegexTextReplacer**, follow these steps:
 
